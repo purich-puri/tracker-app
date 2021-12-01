@@ -1,24 +1,11 @@
-# tracker-app
+# tracker-app-project
 
-## Project setup
-```
-npm install
-```
+Using Vue3 to create a task tracking/reminder app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Project learning skillset
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<ul>
+    <li>Vue3</li>
+    <li>Understanding props</li>
+    <li>Understanding components</li>
+</ul>
