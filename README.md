@@ -6,6 +6,7 @@ Using Vue3 to create a task tracking/reminder app
 
 <ul>
     <li>Vue3</li>
-    <li>Understanding props</li>
     <li>Understanding components</li>
+    <li>Understanding props  and emit</li>
+    
 </ul>
